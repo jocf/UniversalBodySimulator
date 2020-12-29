@@ -1,6 +1,6 @@
 WHAT IS THIS?
 - This code is a simulation that simulates graviational bodies in space. The code is multithreaded using pthread, so as to demonstrate how
-we can implement performance improvements WITHOUT using MPI. 
+we can implement performance improvements WITHOUT using OMP. 
 
 HOW TO COMPILE THIS CODE:
 
