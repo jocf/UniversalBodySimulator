@@ -16,7 +16,6 @@ IMPORTANT INFORMATION WITH BENCHMARK:
 
 - I have provided a very rudimentary benchmarker in this source code as well.
 - It simply benchmarks 10, 50, 100, 250, and 500 bodies with iterations of 10, 100, 1000 and 2000, and dt values of 0.1, 1, 100, 1000, 10000
-- The script is based off of Jayden Zangari's script provided on Ed.
 - To run the script, the CLI MUST be compiled before trying to use it.
 - To edit any of the values, this can easily be done within the bash script. I have selected values that provide a 
 	broad range of data that is interesting.
